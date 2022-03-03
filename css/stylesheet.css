@@ -1,15 +1,33 @@
 body{
     font-family: sans-serif;
-    font-size:110%;
+    font-size:100%;
     background-color: #FCF7F8;
   }
   
   header {
     text-align: center;
   }
+  #heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 130%;
+    background-color: darkorchid;
+    color: antiquewhite;
+  }
   
   footer {
     background-color: #343330;
     text-align: center;
+  }
+
+  #sidebar{
+    width: 20%;
+    background-color: lightgrey;
+  }
+
+  .navMenu{
+    list-style-type: none;
+    
+
+
   }
   
