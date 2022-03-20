@@ -4,6 +4,8 @@ body{
     background-color: #FCF7F8;
     display: flex;
     flex-direction: column;
+    border-radius: 10px;
+    border-color: yellow;
   }
 
 .main{
