@@ -51,6 +51,7 @@ h3 {
 footer {
     background-color: #83C5BE;
     text-align: center;
+    justify-content: center;
     color: orangered;
 }
 
@@ -66,8 +67,14 @@ footer {
     padding: 0%;
 }
 
-.icon {
-    width: 3rem;
-    margin: 1rem;
-    height: auto;
+#gmailContact {
+    width: 100%;
+    margin: 4rem;
+    height: 100%;
+}
+
+#whatsappContact {
+    width: 100%;
+    margin: 3rem;
+    height: 100%;
 }
